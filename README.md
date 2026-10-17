@@ -38,5 +38,3 @@ Built for freelancers, consultants, and small agencies.
    ```
    streamlit run app.py
    ```
-
-Try it quickly: `python samples/make_samples.py` creates fake invoices and a fake bank statement.
